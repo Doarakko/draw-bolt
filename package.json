@@ -37,7 +37,7 @@
     "serverless-offline": "^13.2.0",
     "serverless-plugin-typescript": "^2.1.5",
     "ts-node": "^10.9.1",
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.3"
   },
   "volta": {
     "node": "18.18.2"
