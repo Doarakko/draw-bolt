@@ -23,7 +23,7 @@
   "dependencies": {
     "@slack/bolt": "^3.14.0",
     "dotenv": "^14.2.0",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "@types/node": "^20.11.15",
